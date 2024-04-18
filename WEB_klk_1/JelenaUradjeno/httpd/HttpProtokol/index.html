@@ -1,0 +1,77 @@
+<html>
+<head>
+
+	<style>
+		.inputi{
+			
+			margin-left: 20px;
+		}
+
+		.oblik{
+			
+			margin-left: 10px;
+			width: 300px;
+			border: 2px solid green;
+			
+
+		}
+		.pomjeri{
+			color: red;
+			margin-left: 10px;
+		}
+
+		.po{
+			margin: 10px;
+		}
+
+		.divov{
+			margin-left: 20px;
+			margin-bottom: 10px;
+		}
+	</style>
+</head>
+
+<body>
+
+	<form action="http://localhost:8080/add" class="oblik">
+	
+		<div class="divov">
+		<h3 >Unos novog lijeka</h3>
+		<p class="pomjeri">Id:<input type="number" name="id" class="inputi" required></p>
+		<p class="pomjeri">Naziv:<input type="text" name="naziv" class="inputi"></p>
+		<p class="pomjeri">Cena:<input type="number" name="cena" class="inputi"></p>
+		<p class="pomjeri">Kolicina:<input type="number" name="kolicina" class="inputi"></p>
+		<p class="pomjeri">Tip:<select name="tip" class="inputi">
+			<option value="Analgetik">Analgetik</option>
+			<option value="Antiseptik">Antiseptik</option>
+			<option value="Antibiotik">Antibiotik</option>
+		</select></p>
+
+		<input type="submit" value="Dodaj" class="po">
+	</div>
+	</form>
+
+	<form action="http://localhost:8080/pretrazi" class="oblik">
+
+		<div class="divov">
+		<p>Tip:<select name="tip" class="inputi">
+			<option value="Analgetik">Analgetik</option>
+			<option value="Antiseptik">Antiseptik</option>
+			<option value="Antibiotik">Antibiotik</option>
+		</select><input value="Pretrazi" type="submit"></p>
+	</div>
+		
+
+	</form>
+
+
+	<form action="http://localhost:8080/obrisi" class="oblik">
+		<div class="divov">
+		<p >Name:<input type="text" name="ime"><input type="submit" value="Obrsii"></p>
+	</div>
+	</form>
+
+</body>
+
+
+</html>

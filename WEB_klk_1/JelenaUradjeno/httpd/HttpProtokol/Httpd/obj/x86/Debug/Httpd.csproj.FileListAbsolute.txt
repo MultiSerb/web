@@ -1,0 +1,6 @@
+C:\Users\NewUser\Desktop\VJEZBANJeWEBA\httpd\HttpProtokol\Httpd\bin\Debug\Httpd.exe
+C:\Users\NewUser\Desktop\VJEZBANJeWEBA\httpd\HttpProtokol\Httpd\bin\Debug\Httpd.pdb
+C:\Users\NewUser\Desktop\VJEZBANJeWEBA\httpd\HttpProtokol\Httpd\obj\x86\Debug\Httpd.csproj.AssemblyReference.cache
+C:\Users\NewUser\Desktop\VJEZBANJeWEBA\httpd\HttpProtokol\Httpd\obj\x86\Debug\Httpd.csproj.CoreCompileInputs.cache
+C:\Users\NewUser\Desktop\VJEZBANJeWEBA\httpd\HttpProtokol\Httpd\obj\x86\Debug\Httpd.exe
+C:\Users\NewUser\Desktop\VJEZBANJeWEBA\httpd\HttpProtokol\Httpd\obj\x86\Debug\Httpd.pdb
