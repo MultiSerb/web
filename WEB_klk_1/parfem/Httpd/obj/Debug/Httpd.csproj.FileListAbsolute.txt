@@ -1,0 +1,21 @@
+C:\Users\Lidija\Desktop\Faks\Web\New folder\Materijali za SOV1\Materijali za SOV1\Httpd\Httpd\bin\Debug\Httpd.exe.config
+C:\Users\Lidija\Desktop\Faks\Web\New folder\Materijali za SOV1\Materijali za SOV1\Httpd\Httpd\bin\Debug\Httpd.exe
+C:\Users\Lidija\Desktop\Faks\Web\New folder\Materijali za SOV1\Materijali za SOV1\Httpd\Httpd\bin\Debug\Httpd.pdb
+C:\Users\Lidija\Desktop\Faks\Web\New folder\Materijali za SOV1\Materijali za SOV1\Httpd\Httpd\obj\Debug\Httpd.csproj.AssemblyReference.cache
+C:\Users\Lidija\Desktop\Faks\Web\New folder\Materijali za SOV1\Materijali za SOV1\Httpd\Httpd\obj\Debug\Httpd.csproj.CoreCompileInputs.cache
+C:\Users\Lidija\Desktop\Faks\Web\New folder\Materijali za SOV1\Materijali za SOV1\Httpd\Httpd\obj\Debug\Httpd.exe
+C:\Users\Lidija\Desktop\Faks\Web\New folder\Materijali za SOV1\Materijali za SOV1\Httpd\Httpd\obj\Debug\Httpd.pdb
+C:\Users\Srky\Desktop\Veb\Httpd\Httpd\bin\Debug\Httpd.exe.config
+C:\Users\Srky\Desktop\Veb\Httpd\Httpd\bin\Debug\Httpd.exe
+C:\Users\Srky\Desktop\Veb\Httpd\Httpd\bin\Debug\Httpd.pdb
+C:\Users\Srky\Desktop\Veb\Httpd\Httpd\obj\Debug\Httpd.csproj.AssemblyReference.cache
+C:\Users\Srky\Desktop\Veb\Httpd\Httpd\obj\Debug\Httpd.csproj.CoreCompileInputs.cache
+C:\Users\Srky\Desktop\Veb\Httpd\Httpd\obj\Debug\Httpd.exe
+C:\Users\Srky\Desktop\Veb\Httpd\Httpd\obj\Debug\Httpd.pdb
+C:\Users\milan\Desktop\Httpd\Httpd\bin\Debug\Httpd.exe.config
+C:\Users\milan\Desktop\Httpd\Httpd\bin\Debug\Httpd.exe
+C:\Users\milan\Desktop\Httpd\Httpd\bin\Debug\Httpd.pdb
+C:\Users\milan\Desktop\Httpd\Httpd\obj\Debug\Httpd.csproj.AssemblyReference.cache
+C:\Users\milan\Desktop\Httpd\Httpd\obj\Debug\Httpd.csproj.CoreCompileInputs.cache
+C:\Users\milan\Desktop\Httpd\Httpd\obj\Debug\Httpd.exe
+C:\Users\milan\Desktop\Httpd\Httpd\obj\Debug\Httpd.pdb

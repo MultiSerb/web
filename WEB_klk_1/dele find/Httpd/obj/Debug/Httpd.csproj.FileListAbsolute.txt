@@ -1,0 +1,7 @@
+C:\Users\milan\Desktop\Vezbe04-resenje\Httpd\bin\Debug\Httpd.exe.config
+C:\Users\milan\Desktop\Vezbe04-resenje\Httpd\bin\Debug\Httpd.exe
+C:\Users\milan\Desktop\Vezbe04-resenje\Httpd\bin\Debug\Httpd.pdb
+C:\Users\milan\Desktop\Vezbe04-resenje\Httpd\obj\Debug\Httpd.csproj.AssemblyReference.cache
+C:\Users\milan\Desktop\Vezbe04-resenje\Httpd\obj\Debug\Httpd.csproj.CoreCompileInputs.cache
+C:\Users\milan\Desktop\Vezbe04-resenje\Httpd\obj\Debug\Httpd.exe
+C:\Users\milan\Desktop\Vezbe04-resenje\Httpd\obj\Debug\Httpd.pdb

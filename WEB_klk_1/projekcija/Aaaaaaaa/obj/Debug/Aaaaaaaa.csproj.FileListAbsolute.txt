@@ -1,0 +1,14 @@
+C:\Users\Ilija\OneDrive\Desktop\Nrec\Aaaaaaaa\obj\Debug\Aaaaaaaa.csproj.AssemblyReference.cache
+C:\Users\Ilija\OneDrive\Desktop\Nrec\Aaaaaaaa\obj\Debug\Aaaaaaaa.csproj.CoreCompileInputs.cache
+C:\Users\Ilija\OneDrive\Desktop\Nrec\Aaaaaaaa\bin\Debug\Aaaaaaaa.exe.config
+C:\Users\Ilija\OneDrive\Desktop\Nrec\Aaaaaaaa\bin\Debug\Aaaaaaaa.exe
+C:\Users\Ilija\OneDrive\Desktop\Nrec\Aaaaaaaa\bin\Debug\Aaaaaaaa.pdb
+C:\Users\Ilija\OneDrive\Desktop\Nrec\Aaaaaaaa\obj\Debug\Aaaaaaaa.exe
+C:\Users\Ilija\OneDrive\Desktop\Nrec\Aaaaaaaa\obj\Debug\Aaaaaaaa.pdb
+C:\Users\milan\Desktop\Nrec\Aaaaaaaa\bin\Debug\Aaaaaaaa.exe.config
+C:\Users\milan\Desktop\Nrec\Aaaaaaaa\bin\Debug\Aaaaaaaa.exe
+C:\Users\milan\Desktop\Nrec\Aaaaaaaa\bin\Debug\Aaaaaaaa.pdb
+C:\Users\milan\Desktop\Nrec\Aaaaaaaa\obj\Debug\Aaaaaaaa.csproj.AssemblyReference.cache
+C:\Users\milan\Desktop\Nrec\Aaaaaaaa\obj\Debug\Aaaaaaaa.csproj.CoreCompileInputs.cache
+C:\Users\milan\Desktop\Nrec\Aaaaaaaa\obj\Debug\Aaaaaaaa.exe
+C:\Users\milan\Desktop\Nrec\Aaaaaaaa\obj\Debug\Aaaaaaaa.pdb
